@@ -1,5 +1,4 @@
 module.exports = ({ env }) => ({
-  defaultConnection: "default",
   connection: {
     client: "postgres",
     connection: {
